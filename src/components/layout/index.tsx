@@ -48,7 +48,7 @@ const Layout = (props: LayoutProps) => {
   const title = "Desmos Network";
   const type = "website";
   const description =
-    "A blockchain which serves as the backbone to empower the development of user-centric social networks.";
+    "We provide various infrastructure for projects, validators, investors and users. Our main principle is openness to projects and the community. Build together 🧱";
   const imageUrl = `${baseUrl}/images/desmos.png`;
 
   return (
