@@ -155,7 +155,7 @@ export const footer: FooterProps = {
     {
       icon: <DiscordIcon />,
       key: "@Desmos",
-      url: "https://discord.com/invite/yxPRGd",
+      url: "https://discord.gg/gd7Mjz2a",
       externalURL: true,
     },
     {
