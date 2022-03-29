@@ -45,7 +45,7 @@ const Layout = (props: LayoutProps) => {
     currentPath = window?.location?.href || "";
   }
 
-  const title = "Desmos Network";
+  const title = "POSTCAPITALIST";
   const type = "website";
   const description =
     "We provide various infrastructure for projects, validators, investors and users. Our main principle is openness to projects and the community. Build together 🧱";
